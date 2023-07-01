@@ -1,8 +1,1 @@
-{
-"key_string": "value_string",
-"key_int": 123,
-"key_bool": true,
-"key_float": 123.12,
-"key_dic": {"key_a": "value_a" },
-"key_int2": 2222
-}
+"{\"key_string\":\"value_string\",\"key_int\":123,\"key_bool\":true,\"key_float\":123.12,\"key_dic\":{\"key_a\":\"value_a\"},\"key_int2\":2222}"
